@@ -1,0 +1,5 @@
+{
+  "name": "StudyBuddy",
+  "description": "A friendly AI tutor for students covering math, science, history, and logic with step-by-step explanations.",
+  "requestFramePermissions": []
+}
